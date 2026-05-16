@@ -10,7 +10,7 @@ A  data analysis project on global e-commerce sales using Python (pandas · nump
 ## 🛠️ Tools
 
 - **Python** · pandas · numpy · matplotlib
-- **Jupyter Notebook** (VS Code)
+
 
 ---
 
